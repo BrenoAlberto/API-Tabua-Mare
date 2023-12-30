@@ -1,0 +1,575 @@
+{
+    "date": "2023-12-30T04:26:12.359Z",
+    "proxies": [
+        {
+            "ipAddress": "177.93.51.210",
+            "port": 999,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "177.84.210.115",
+            "port": 6060,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "177.93.96.45",
+            "port": 8080,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "186.227.112.65",
+            "port": 8080,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "170.82.13.121",
+            "port": 3600,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "191.6.15.104",
+            "port": 8080,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "177.11.190.84",
+            "port": 8080,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "200.7.11.154",
+            "port": 8080,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "201.91.248.67",
+            "port": 20183,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "177.93.45.154",
+            "port": 999,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "187.63.156.133",
+            "port": 999,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "177.54.229.3",
+            "port": 9292,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "138.0.143.159",
+            "port": 9292,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "45.162.82.244",
+            "port": 8080,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "45.235.16.121",
+            "port": 27234,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "143.208.84.57",
+            "port": 8589,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "177.93.59.70",
+            "port": 999,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "170.238.104.213",
+            "port": 8080,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "186.201.63.83",
+            "port": 3128,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "45.224.249.36",
+            "port": 8080,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "177.93.45.156",
+            "port": 999,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "177.124.184.52",
+            "port": 8080,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "177.130.63.80",
+            "port": 8080,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "201.91.82.155",
+            "port": 3128,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "187.1.57.206",
+            "port": 20183,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "168.181.196.76",
+            "port": 8080,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "201.20.118.146",
+            "port": 27234,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "143.208.152.60",
+            "port": 3180,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "45.236.198.249",
+            "port": 666,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "138.59.151.162",
+            "port": 8080,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "177.93.44.226",
+            "port": 999,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "179.108.153.159",
+            "port": 8080,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "181.191.94.126",
+            "port": 8999,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "177.200.91.109",
+            "port": 12312,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "187.62.209.119",
+            "port": 8080,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "138.97.98.215",
+            "port": 3128,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "200.7.118.62",
+            "port": 666,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "191.243.46.2",
+            "port": 18283,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "187.94.16.59",
+            "port": 39665,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "177.130.104.106",
+            "port": 33333,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "192.141.196.129",
+            "port": 8080,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "187.17.232.6",
+            "port": 8089,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "138.0.26.120",
+            "port": 9010,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "177.87.144.122",
+            "port": 8086,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "177.93.36.147",
+            "port": 999,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "187.85.82.222",
+            "port": 55676,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "45.171.108.253",
+            "port": 999,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "179.125.51.54",
+            "port": 27234,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "191.32.62.144",
+            "port": 3128,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "177.93.36.150",
+            "port": 999,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "128.201.68.90",
+            "port": 63380,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "191.243.46.150",
+            "port": 43241,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "138.219.129.141",
+            "port": 8080,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "191.243.46.30",
+            "port": 43241,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "138.94.76.86",
+            "port": 8080,
+            "anonymityLevel": "transparent",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "186.215.87.194",
+            "port": 8889,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "http"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        },
+        {
+            "ipAddress": "177.54.229.164",
+            "port": 9292,
+            "anonymityLevel": "anonymous",
+            "protocols": [
+                "https"
+            ],
+            "country": "br",
+            "source": "checkerproxy"
+        }
+    ]
+}
